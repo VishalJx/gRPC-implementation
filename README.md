@@ -67,3 +67,6 @@ go run .
 cd ./server
 go run .
 ```
+
+Author: Vishal Jaiswal
+Linkedin: https://www.linkedin.com/in/vishaljx/
